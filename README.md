@@ -21,18 +21,13 @@ The code in this repository follows the curriculum from the **Bro Code** YouTube
 * **Series:** Working with 1-dimensional labeled arrays.
 * **DataFrames:** Creating and manipulating tabular data structures.
 * **Importing Data:** Reading external files (CSV, Excel) into Python.
-* **Selection:** selecting specific rows and columns by label or position.
+* **Selection:** Selecting specific rows and columns by label or position.
 * **Filtering:** Querying data to find specific records.
 * **Aggregation:** Grouping data to calculate summary statistics.
 * **Data Cleaning:** Handling missing values and preparing data for analysis.
 
 ## 🛠️ Technologies
-* **Python 3.x**
+* **Python 3.13.9**
 * **NumPy**
 * **Pandas**
-* **Jupyter Notebook** (if you used notebooks) / **Python Scripts**
-
-## 🚀 Usage
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/Data-Analysis-Fundamentals.git](https://github.com/yourusername/Data-Analysis-Fundamentals.git)
+*
