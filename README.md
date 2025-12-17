@@ -30,4 +30,3 @@ The code in this repository follows the curriculum from the **Bro Code** YouTube
 * **Python 3.13.9**
 * **NumPy**
 * **Pandas**
-*
